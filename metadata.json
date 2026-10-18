@@ -1,0 +1,6 @@
+{
+  "name": "Bedrock Craft - Free Multiplayer Sandbox",
+  "description": "Authentic Bedrock-style voxel sandbox game. Explore procedural worlds, mine, craft, build, and play multiplayer with friends on local and online servers without extra cost.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
